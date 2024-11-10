@@ -132,3 +132,9 @@ TL;DR
 [@EdLovecraft](https://github.com/EdLovecraft)
 
 [@Evilmass](https://github.com/Evilmass)
+
+
+### btw 虽然但是。。用whistle替换了下mitmproxy也干了，然并卵，试着自己玩玩把go替换成node。
+
+![01E0IDH0$WM}T0YRG`FZC 4](https://github.com/user-attachments/assets/921d757b-48dc-49a2-982c-70f520687d96)
+
